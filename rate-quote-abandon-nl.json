@@ -1,0 +1,9 @@
+{
+  "headerPrefix": "Klaar om te verzenden vanuit",
+  "headerJoin" : "om te",
+  "headerSuffix": "?",
+  "headerFallback": "Klaar om je zending te voltooien?",
+  "ctaText": "NU VERZENDEN",
+  "body": "Vergeet niet in te loggen met je fedex.com gebruikers-ID om <span style='font-weight:bold;'>accountspecifieke tarieven te bekijken en te beginnen met verzenden</span>",
+  "iconAlt": "verzenddoos"
+}
