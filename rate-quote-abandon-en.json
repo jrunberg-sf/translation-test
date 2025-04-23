@@ -1,9 +1,0 @@
-{
-  "headerPrefix": "Ready to ship from",
-  "headerJoin": "to",
-  "headerSuffix": "?",
-  "headerFallback": "Ready to complete your shipment?",
-  "ctaText": "SHIP NOW",
-  "body": "Don't forget to log in with your fedex.com User ID to get <span style='font-weight:bold;'>account-specific rates and start shipping</span>",
-  "iconAlt": "shipping box"
-}
